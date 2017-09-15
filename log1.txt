@@ -1,0 +1,120 @@
+End Starting GetBestMatchingImages1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\e007daf3-b633-44de-9ee9-011a2b8e3d5f.jpgmodelImages image.Pathget result from matchResults using for each matchResults GroupBy query executed End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\f7d904a5-a25f-4475-9c5c-463e28caea97.jpg
+modelImages image.Path
+get result from matchResults using for each 
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\c69750a2-8c43-42a9-b749-60fb65c229f5.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\a8381757-6050-4c0d-a9be-952e736d72c3.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\9a43082a-be15-41dd-8585-dcc0aee4310e.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\7fdc632d-9f22-4a1a-9cf0-0617b31e1c57.jpg
+modelImages image.Path
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\d41a5bc3-f804-415e-84e9-0da4a06ef119.jpg
+modelImages image.Path
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\03e34100-369f-4c47-9072-8a2173098d77.jpg
+modelImages image.Path
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\53bb2e5b-212a-49d2-9841-1e08aac2fd7f.jpg
+modelImages image.Path
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\dee711a3-afb9-4c6d-b029-126ed0c6cf9e.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\d1ade6df-63fa-4cbf-96fc-70d828cbad08.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\236f63bf-4499-4532-beae-336b963d6216.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\bfea2e38-3b11-45b2-a971-abed603fb798.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\cbff8147-0173-43e0-9765-706492da027b.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\ce1ee6a2-1451-442e-b2e8-1eef01f3d2f1.jpg
+modelImages image.Path
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\6e8ebbc5-6f88-4cab-acf9-fd543ae9eef8.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\56844330-b459-4547-9522-1f9c3e5f621f.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\c25f8cd0-bfd9-4fc0-9e76-171b877c65c3.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\0df2fdbb-73d7-4152-93cd-80d6f3945f39.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\3bcaf3a9-0551-4fc8-9acd-b279f3336701.jpg
+modelImages image.Path
+get result from matchResults using for each
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\b423043f-f00f-49ce-974e-d7d9d49e7293.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\f940d668-6bd1-4ec9-9ab4-f33bb449b9f5.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\ba81d4de-1908-48fa-bfb8-44c48b1ce117.jpg
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\b55cef78-616f-4b1f-93bf-ea74d7996bee.jpg
+Starting GetBestMatchingImages
+1. rotatedImagePaths referenceImage.Path F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\ImageSearch\3d1bf990-e7dc-4c46-84e7-d7dffff704f4.jpg
+modelImages image.Path
+get result from matchResults using for each
+matchResults GroupBy query executed 
+End 

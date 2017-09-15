@@ -1,0 +1,138 @@
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.exe.config
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.exe
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.pdb
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\OpenCVImageMatch.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.Util.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\OpenCVImageMatch.pdb
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.pdb
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.xml
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.GPU.pdb
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.Util.pdb
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.Util.xml
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.csprojResolveAssemblyReference.cache
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.exe
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.pdb
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\cudart64_65.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\cufft64_65.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\cvextern.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\cvextern_test.exe
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\nppc64_65.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\nppi64_65.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\npps64_65.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\OpenCL.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_calib3d2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_contrib2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_core2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_features2d2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_flann2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_gpu2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_highgui2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_imgproc2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_legacy2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_ml2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_nonfree2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_objdetect2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_photo2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_stitching2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_superres2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_video2410.dll
+C:\Users\Subin\Documents\Visual Studio 2015\Projects\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_videostab2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\cudart64_65.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\cufft64_65.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\cvextern.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\cvextern_test.exe
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\nppc64_65.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\nppi64_65.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\npps64_65.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\OpenCL.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_calib3d2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_contrib2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_core2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_features2d2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_flann2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_gpu2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_highgui2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_imgproc2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_legacy2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_ml2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_nonfree2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_objdetect2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_photo2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_stitching2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_superres2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_video2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x64\opencv_videostab2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\cudart32_65.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\cufft32_65.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\cvextern.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\nppc32_65.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\nppi32_65.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\npps32_65.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\OpenCL.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_calib3d2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_contrib2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_core2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_features2d2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_flann2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_gpu2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_highgui2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_imgproc2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_legacy2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_ml2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_nonfree2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_objdetect2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_photo2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_stitching2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_superres2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_video2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\x86\opencv_videostab2410.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.exe.config
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.exe
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.pdb
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\OpenCVImageMatch.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.GPU.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.Util.dll
+F:\films\OpenCVImageMatch\ImageMatchHost\bin\Debug\OpenCVImageMatch.pdb
+F:\films\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.csprojResolveAssemblyReference.cache
+F:\films\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.exe
+F:\films\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.pdb
+F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.exe.config
+F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.exe
+F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.pdb
+F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\OpenCVImageMatch.dll
+F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.dll
+F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.GPU.dll
+F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.Util.dll
+F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\OpenCVImageMatch.pdb
+F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.csprojResolveAssemblyReference.cache
+F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.exe
+F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.pdb
+G:\Subin\TM.Trumedicine\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.exe.config
+G:\Subin\TM.Trumedicine\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.exe
+G:\Subin\TM.Trumedicine\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.pdb
+G:\Subin\TM.Trumedicine\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\OpenCVImageMatch.dll
+G:\Subin\TM.Trumedicine\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.dll
+G:\Subin\TM.Trumedicine\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.GPU.dll
+G:\Subin\TM.Trumedicine\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.Util.dll
+G:\Subin\TM.Trumedicine\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\OpenCVImageMatch.pdb
+G:\Subin\TM.Trumedicine\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.csprojResolveAssemblyReference.cache
+G:\Subin\TM.Trumedicine\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.exe
+G:\Subin\TM.Trumedicine\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.pdb
+F:\Subin\Projects\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.exe.config
+F:\Subin\Projects\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.exe
+F:\Subin\Projects\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.pdb
+F:\Subin\Projects\TruMedicineFinal\TruMedicine\Source\TM.TruMedicine\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.csprojResolveAssemblyReference.cache
+F:\Subin\Projects\TruMedicineFinal\TruMedicine\Source\TM.TruMedicine\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.exe
+F:\Subin\Projects\TruMedicineFinal\TruMedicine\Source\TM.TruMedicine\OpenCVImageMatch\ImageMatchHost\obj\Debug\ImageMatchHost.pdb
+F:\Subin\Projects\TruMedicineFinal\TruMedicine\Source\TM.TruMedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.exe.config
+F:\Subin\Projects\TruMedicineFinal\TruMedicine\Source\TM.TruMedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.exe
+F:\Subin\Projects\TruMedicineFinal\TruMedicine\Source\TM.TruMedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\ImageMatchHost.pdb
+F:\Subin\Projects\TruMedicineFinal\TruMedicine\Source\TM.TruMedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\OpenCVImageMatch.dll
+F:\Subin\Projects\TruMedicineFinal\TruMedicine\Source\TM.TruMedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.dll
+F:\Subin\Projects\TruMedicineFinal\TruMedicine\Source\TM.TruMedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.CV.GPU.dll
+F:\Subin\Projects\TruMedicineFinal\TruMedicine\Source\TM.TruMedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\Emgu.Util.dll
+F:\Subin\Projects\TruMedicineFinal\TruMedicine\Source\TM.TruMedicine\OpenCVImageMatch\ImageMatchHost\bin\Debug\OpenCVImageMatch.pdb
