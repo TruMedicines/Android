@@ -1,5 +1,0 @@
-Message : The file F:\Projects\TrueMed\TM.Trumedicine\TM.Trumedicine.Api\Blobs\test.jpg could not be not found.Stacktrace :    at Emgu.CV.Image`2..ctor(String fileName)
-   at OpenCVImageMatch.ImageMatch.<>c.<GetBestMatchingImages>b__2_0(ImageDetail image) in F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\OpenCVImageMatch\ImageMatch.cs:line 47
-   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
-   at OpenCVImageMatch.ImageMatch.GetBestMatchingImages(ImageDetail referenceImage, List`1 sampleImages, SettingsModel settings) in F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\OpenCVImageMatch\ImageMatch.cs:line 49
-   at ImageMatchHost.ImageMatchHost.ImageMatchService.GetBestMatchingImages(ImageDetail referenceImage, List`1 sampleImages, SettingsModel settings) in F:\Projects\TrueMed\TM.Trumedicine\OpenCVImageMatch\ImageMatchHost\ImageMatchSelfHost.cs:line 42
