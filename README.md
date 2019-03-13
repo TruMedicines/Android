@@ -1,4 +1,4 @@
-# DeepPill Andriod image recognition neural network 
+# DeepPill Android image recognition neural network 
 Android app and back-end image recognizer to identify speckled pills to stop counterfeiting and Opioid Abuse
 
 Note: Opencv library should be added to the bin/running folder for making the Image match service working.
